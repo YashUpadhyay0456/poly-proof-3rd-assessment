@@ -70,6 +70,4 @@ We welcome contributions to improve this Circom circuit or add new functionaliti
 
 This Circom circuit is licensed under the [MIT License](LICENSE).
 
----
-
-Please note that the instructions for executing the circuit are generic and assume that the snarkjs library is used for proving and verifying the circuit. Make sure to adapt the usage instructions based on the specific tooling and libraries you are using for your application. Additionally, update the link to the MIT License file (`LICENSE`) if it is already present in your repository.
+--
